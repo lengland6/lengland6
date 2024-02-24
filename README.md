@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lauren
+- 👋 Hi, I’m Lauren England!
 - 👀 I’m interested in cybersecurity and digital forensics. 
 - 🌱 I’m currently learning Python and JavaScript. 
 - 💞️ I’m looking to collaborate on ...
